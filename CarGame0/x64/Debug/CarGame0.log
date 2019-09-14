@@ -1,0 +1,89 @@
+﻿  BasicShapeObjs.cpp
+  Camera.cpp
+  GroundObj2.cpp
+  InitShader.cpp
+  Mesh.cpp
+c:\users\cucg\desktop\final\cargame\basecodes\mesh.cpp(338): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\cucg\desktop\final\cargame\basecodes\mesh.cpp(520): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MeshHemisphere.cpp
+  MeshSphere.cpp
+  CarGame0App.cpp
+  CarModel.cpp
+  main_CarGame0.cpp
+  TreeModel0.cpp
+c:\users\cucg\desktop\final\cargame\cargame0\treemodel0.cpp(85): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+BasicShapeObjs.obj : error LNK2001: __imp___glewBindBuffer 외부 기호를 확인할 수 없습니다.
+GroundObj2.obj : error LNK2001: __imp___glewBindBuffer 외부 기호를 확인할 수 없습니다.
+CarModel.obj : error LNK2001: __imp___glewBindBuffer 외부 기호를 확인할 수 없습니다.
+TreeModel0.obj : error LNK2001: __imp___glewBindBuffer 외부 기호를 확인할 수 없습니다.
+BasicShapeObjs.obj : error LNK2001: __imp___glewBufferData 외부 기호를 확인할 수 없습니다.
+GroundObj2.obj : error LNK2001: __imp___glewBufferData 외부 기호를 확인할 수 없습니다.
+CarModel.obj : error LNK2001: __imp___glewBufferData 외부 기호를 확인할 수 없습니다.
+TreeModel0.obj : error LNK2001: __imp___glewBufferData 외부 기호를 확인할 수 없습니다.
+BasicShapeObjs.obj : error LNK2001: __imp___glewDeleteBuffers 외부 기호를 확인할 수 없습니다.
+GroundObj2.obj : error LNK2001: __imp___glewDeleteBuffers 외부 기호를 확인할 수 없습니다.
+CarModel.obj : error LNK2001: __imp___glewDeleteBuffers 외부 기호를 확인할 수 없습니다.
+TreeModel0.obj : error LNK2001: __imp___glewDeleteBuffers 외부 기호를 확인할 수 없습니다.
+BasicShapeObjs.obj : error LNK2001: __imp___glewGenBuffers 외부 기호를 확인할 수 없습니다.
+GroundObj2.obj : error LNK2001: __imp___glewGenBuffers 외부 기호를 확인할 수 없습니다.
+CarModel.obj : error LNK2001: __imp___glewGenBuffers 외부 기호를 확인할 수 없습니다.
+TreeModel0.obj : error LNK2001: __imp___glewGenBuffers 외부 기호를 확인할 수 없습니다.
+BasicShapeObjs.obj : error LNK2001: __imp___glewEnableVertexAttribArray 외부 기호를 확인할 수 없습니다.
+GroundObj2.obj : error LNK2001: __imp___glewEnableVertexAttribArray 외부 기호를 확인할 수 없습니다.
+CarModel.obj : error LNK2001: __imp___glewEnableVertexAttribArray 외부 기호를 확인할 수 없습니다.
+TreeModel0.obj : error LNK2001: __imp___glewEnableVertexAttribArray 외부 기호를 확인할 수 없습니다.
+BasicShapeObjs.obj : error LNK2001: __imp___glewVertexAttribPointer 외부 기호를 확인할 수 없습니다.
+GroundObj2.obj : error LNK2001: __imp___glewVertexAttribPointer 외부 기호를 확인할 수 없습니다.
+CarModel.obj : error LNK2001: __imp___glewVertexAttribPointer 외부 기호를 확인할 수 없습니다.
+TreeModel0.obj : error LNK2001: __imp___glewVertexAttribPointer 외부 기호를 확인할 수 없습니다.
+BasicShapeObjs.obj : error LNK2001: __imp___glewBindVertexArray 외부 기호를 확인할 수 없습니다.
+GroundObj2.obj : error LNK2001: __imp___glewBindVertexArray 외부 기호를 확인할 수 없습니다.
+CarModel.obj : error LNK2001: __imp___glewBindVertexArray 외부 기호를 확인할 수 없습니다.
+TreeModel0.obj : error LNK2001: __imp___glewBindVertexArray 외부 기호를 확인할 수 없습니다.
+BasicShapeObjs.obj : error LNK2001: __imp___glewDeleteVertexArrays 외부 기호를 확인할 수 없습니다.
+GroundObj2.obj : error LNK2001: __imp___glewDeleteVertexArrays 외부 기호를 확인할 수 없습니다.
+CarModel.obj : error LNK2001: __imp___glewDeleteVertexArrays 외부 기호를 확인할 수 없습니다.
+TreeModel0.obj : error LNK2001: __imp___glewDeleteVertexArrays 외부 기호를 확인할 수 없습니다.
+BasicShapeObjs.obj : error LNK2001: __imp___glewGenVertexArrays 외부 기호를 확인할 수 없습니다.
+GroundObj2.obj : error LNK2001: __imp___glewGenVertexArrays 외부 기호를 확인할 수 없습니다.
+CarModel.obj : error LNK2001: __imp___glewGenVertexArrays 외부 기호를 확인할 수 없습니다.
+TreeModel0.obj : error LNK2001: __imp___glewGenVertexArrays 외부 기호를 확인할 수 없습니다.
+InitShader.obj : error LNK2001: __imp___glewAttachShader 외부 기호를 확인할 수 없습니다.
+InitShader.obj : error LNK2001: __imp___glewCompileShader 외부 기호를 확인할 수 없습니다.
+InitShader.obj : error LNK2001: __imp___glewCreateProgram 외부 기호를 확인할 수 없습니다.
+InitShader.obj : error LNK2001: __imp___glewCreateShader 외부 기호를 확인할 수 없습니다.
+InitShader.obj : error LNK2001: __imp___glewDeleteProgram 외부 기호를 확인할 수 없습니다.
+InitShader.obj : error LNK2001: __imp___glewDeleteShader 외부 기호를 확인할 수 없습니다.
+InitShader.obj : error LNK2001: __imp___glewGetProgramInfoLog 외부 기호를 확인할 수 없습니다.
+InitShader.obj : error LNK2001: __imp___glewGetProgramiv 외부 기호를 확인할 수 없습니다.
+InitShader.obj : error LNK2001: __imp___glewGetShaderInfoLog 외부 기호를 확인할 수 없습니다.
+InitShader.obj : error LNK2001: __imp___glewGetShaderiv 외부 기호를 확인할 수 없습니다.
+InitShader.obj : error LNK2001: __imp___glewLinkProgram 외부 기호를 확인할 수 없습니다.
+InitShader.obj : error LNK2001: __imp___glewShaderSource 외부 기호를 확인할 수 없습니다.
+CarGame0App.obj : error LNK2019: __imp_glutPostRedisplay 외부 기호(참조 위치: "void __cdecl Keyboard(unsigned char,int,int)" (?Keyboard@@YAXEHH@Z) 함수)에서 확인하지 못했습니다.
+CarGame0App.obj : error LNK2019: __imp_glutSwapBuffers 외부 기호(참조 위치: "void __cdecl Display(void)" (?Display@@YAXXZ) 함수)에서 확인하지 못했습니다.
+CarGame0App.obj : error LNK2019: __imp_glutTimerFunc 외부 기호(참조 위치: "void __cdecl Timer(int)" (?Timer@@YAXH@Z) 함수)에서 확인하지 못했습니다.
+main_CarGame0.obj : error LNK2001: __imp_glutTimerFunc 외부 기호를 확인할 수 없습니다.
+CarGame0App.obj : error LNK2001: __imp___glewGetUniformLocation 외부 기호를 확인할 수 없습니다.
+CarGame0App.obj : error LNK2001: __imp___glewUniform1f 외부 기호를 확인할 수 없습니다.
+CarGame0App.obj : error LNK2001: __imp___glewUniform1i 외부 기호를 확인할 수 없습니다.
+CarGame0App.obj : error LNK2001: __imp___glewUniform3f 외부 기호를 확인할 수 없습니다.
+CarGame0App.obj : error LNK2001: __imp___glewUniformMatrix4fv 외부 기호를 확인할 수 없습니다.
+CarGame0App.obj : error LNK2001: __imp___glewUseProgram 외부 기호를 확인할 수 없습니다.
+CarGame0App.obj : error LNK2001: __imp___glewVertexAttrib4f 외부 기호를 확인할 수 없습니다.
+main_CarGame0.obj : error LNK2019: __imp_glewInit 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main_CarGame0.obj : error LNK2019: __imp_glutInitWindowSize 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main_CarGame0.obj : error LNK2019: __imp_glutInitDisplayMode 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main_CarGame0.obj : error LNK2019: __imp_glutMainLoop 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main_CarGame0.obj : error LNK2019: __imp_glutKeyboardFunc 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main_CarGame0.obj : error LNK2019: __imp_glutReshapeFunc 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main_CarGame0.obj : error LNK2019: __imp_glutDisplayFunc 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main_CarGame0.obj : error LNK2019: __imp_glutMouseFunc 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main_CarGame0.obj : error LNK2019: __imp_glutMotionFunc 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main_CarGame0.obj : error LNK2019: __imp_glutKeyboardUpFunc 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+main_CarGame0.obj : error LNK2019: __imp___glutInitWithExit 외부 기호(참조 위치: glutInit_ATEXIT_HACK 함수)에서 확인하지 못했습니다.
+main_CarGame0.obj : error LNK2019: __imp___glutCreateWindowWithExit 외부 기호(참조 위치: glutCreateWindow_ATEXIT_HACK 함수)에서 확인하지 못했습니다.
+main_CarGame0.obj : error LNK2001: __imp_glewExperimental 외부 기호를 확인할 수 없습니다.
+..\Lib\freeglut.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\cucg\Desktop\Final\CarGame\x64\Debug\CarGame0.exe : fatal error LNK1120: 44개의 확인할 수 없는 외부 참조입니다.
